@@ -1,19 +1,19 @@
 $(document).ready(function() {
 
-    $("#php.progress-bar").animate({
-        width: "70%"
+    $("#backend.progress-bar").animate({
+        width: "95%"
     }, 2500);
 
-    $("#mysql.progress-bar").animate({
-        width: "50%"
+    $("#frontend.progress-bar").animate({
+        width: "82%"
     }, 2500);
 
-    $("#js.progress-bar").animate({
-        width: "80%"
+    $("#database.progress-bar").animate({
+        width: "87%"
     }, 2500);
 
-    $("#git.progress-bar").animate({
-        width: "65%"
+    $("#linux.progress-bar").animate({
+        width: "75%"
     }, 2500);
 
 });
